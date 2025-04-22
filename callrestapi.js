@@ -1,4 +1,4 @@
-var url= "http://localhost:8080/api/jugador";
+var url= "https://backend-jugadores.onrender.com/api/jugador";
 
 function postJugador() {
     const myJugador = {
